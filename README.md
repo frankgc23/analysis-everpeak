@@ -33,3 +33,11 @@ O:
 - Construir un pipeline de limpieza reproducible
 - Analizar comportamientos, distribuciones y outliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
+
+# para títulos,
+## para subtítulos,
+- para listas,
+**texto en negritas**,
+*texto en cursiva*,
+``` para bloques de código,
+[]() para enlaces
